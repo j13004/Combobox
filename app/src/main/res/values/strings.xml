@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Spinner_Sotsuken</string>
+    <string-array name="item_label">
+        <item></item>
+        <item>たくみ</item>
+        <item>しらさぎ</item>
+        <item>こながい</item>
+    </string-array>
+</resources>
